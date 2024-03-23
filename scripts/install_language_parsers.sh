@@ -9,7 +9,7 @@ declare -a repos=(
 "https://github.com/tree-sitter/tree-sitter-go"
 "https://github.com/tree-sitter/tree-sitter-python"
 "https://github.com/tree-sitter/tree-sitter-bash"
-"https://github.com/tree-sitter/tree-sitter-yaml"
+# "https://github.com/tree-sitter/tree-sitter-yaml"
 "https://github.com/tree-sitter/tree-sitter-json"
 )
 
